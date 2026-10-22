@@ -25,7 +25,7 @@ Built on [Vert.x 5](https://vertx.io/) · [Vert.x Consul Client](https://vertx.i
 <summary>Gradle (Kotlin DSL)</summary>
 
 ```kotlin
-implementation("com.guicedee:consul-service-resolver:2.4.0")
+implementation("com.guicedee:consul-service-resolver:2.4.1")
 ```
 </details>
 
